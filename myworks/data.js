@@ -1,0 +1,1 @@
+var myData={designer:{name:'邓志富',phone:'18520271995',tag:["#超级赛亚人"],bg:'#a7c3c5'},gallery:[{src:"myworks/2.jpg",w:1167,h:750},]}
